@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5d9d570a40bbf85c6468.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "library",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "library::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library-Debug-5a824b3a1266b1f26de1.json",
+					"name" : "library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_autogen-Debug-099fd3da1b59a77fe197.json",
+					"name" : "library_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "library_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-library_autogen_timestamp_deps-Debug-21db9d91262c90f333e7.json",
+					"name" : "library_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vadim11111/Programming/Projects/library/build/Desktop-Debug",
+		"source" : "/home/vadim11111/Programming/Projects/library"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

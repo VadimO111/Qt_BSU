@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+
+        <file>styles/duolingo_style.qss</file>
+        <file alias="audio/dog.mp3">audio/dog.mp3</file>
+        <file alias="audio/cat.mp3">audio/cat.mp3</file>
+        <file alias="audio/man.mp3">audio/man.mp3</file>
+        <file alias="audio/water.mp3">audio/water.mp3</file>
+        <file alias="audio/woman.mp3">audio/woman.mp3</file>
+        <file alias="audio/blue.mp3">audio/blue.mp3</file>
+        <file alias="audio/mother.mp3">audio/mother.mp3</file>
+        <file alias="audio/sister.mp3">audio/sister.mp3</file>
+        <file alias="audio/milk.mp3">audio/milk.mp3</file>
+        <file alias="audio/cheese.mp3">audio/cheese.mp3</file>
+        <file alias="audio/cow.mp3">audio/cow.mp3</file>
+        <file alias="audio/one.mp3">audio/one.mp3</file>
+        <file alias="audio/five.mp3">audio/five.mp3</file>
+        <file alias="audio/run.mp3">audio/run.mp3</file>
+        <file alias="audio/pencil.mp3">audio/pencil.mp3</file>
+        <file alias="audio/monday.mp3">audio/monday.mp3</file>
+        <file alias="audio/sunday.mp3">audio/sunday.mp3</file>
+        <file alias="audio/february.mp3">audio/february.mp3</file>
+        <file alias="audio/may.mp3">audio/may.mp3</file>
+        <file alias="audio/doctor.mp3">audio/doctor.mp3</file>
+        <file alias="audio/sunny.mp3">audio/sunny.mp3</file>
+        <file alias="audio/trousers.mp3">audio/trousers.mp3</file>
+        <file alias="audio/how_much.mp3">audio/how_much.mp3</file>
+    </qresource>
+</RCC>
