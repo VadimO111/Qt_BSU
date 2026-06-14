@@ -1,9 +1,0 @@
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/raycater.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/list_install_components.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/install.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/install/local.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/raycater_autogen_timestamp_deps.dir
-/home/vadim11111/Programming/raycater/cmake-build-debug/CMakeFiles/raycater_autogen.dir
